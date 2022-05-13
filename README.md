@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=beyzanurakkuzu&theme=blue-green)](https://github.com/beyzanurakkuzu/github-readme-stats)
 
-https://raw.githubusercontent.com/beyzanurakkuzu/beyzanurakkuzu/output/github-contribution-grid-snake.svg
+https://raw.githubusercontent.com/beyzanurakkuzu/beyzanurakkuzu/output/github-user-contribution.svg

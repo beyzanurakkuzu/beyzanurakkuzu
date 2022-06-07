@@ -1,7 +1,6 @@
-                                                          ✨ Hi there,I'm Beyza ✨                                 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/emGDBYPZ2mVrsS1biZ/giphy.gif" width="100"/>
-</div>
+![LinkedIn Diagramff](https://user-images.githubusercontent.com/61544442/172392765-193891e7-314c-4c92-88a6-e8fbe1672823.png)    
+
+
 
 Here are some ideas to get you started:
 

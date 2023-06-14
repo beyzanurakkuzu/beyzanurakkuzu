@@ -1,6 +1,24 @@
-![LinkedIn Diagramff](https://user-images.githubusercontent.com/61544442/172392765-193891e7-314c-4c92-88a6-e8fbe1672823.png)    
+# Hi, Welcome to my page! 👋
 
+### I'm Beyzanur Akkuzu, Android Developer and currently living in Ankara 🏡
 
-- 📫 How to reach me: https://www.linkedin.com/in/beyzanur-akkuzu/
+- 🌱 I’m currently learning everything 
+- 👯 I’m looking to collaborate with other content creators
+- ⚡ Fun fact: I love to draw and to see new places
+- 🚀 2023 Goals:
+  - [ ] Learn more about Kotlin
+  - [ ] Write 5 articles on Medium
+  - [ ] Creating 3 android apps using the structures I learned
+--------
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=beyzanurakkuzu&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats) 
+### 📕 Latest Blog Posts
+- https://medium.com/@beyzaakkuzu/generic-recyclerviewadapter%C4%B1-nas%C4%B1l-kullan%C4%B1r%C4%B1z-1602d74ff15 
+
+-----------
+
+Where to find me
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=link)](https://github.com/beyzanurakkuzu)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=link)](https://twitter.com/beyzanur_akkuzu)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/beyzanur-akkuzu)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=link)](https://medium.com/@beyzaakkuzu)

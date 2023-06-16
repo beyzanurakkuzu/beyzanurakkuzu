@@ -3,7 +3,6 @@
 ### I'm Beyzanur Akkuzu, Android Developer and currently living in Ankara 🏡
 
 - 🌱 I’m currently learning everything 
-- 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to draw and to see new places
 - 🚀 2023 Goals:
   - [ ] Learn more about Kotlin

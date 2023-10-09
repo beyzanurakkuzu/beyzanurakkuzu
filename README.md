@@ -12,7 +12,8 @@
 
 ### 📕 Latest Blog Posts
 - https://medium.com/@beyzaakkuzu/generic-recyclerviewadapter%C4%B1-nas%C4%B1l-kullan%C4%B1r%C4%B1z-1602d74ff15 
-
+- https://medium.com/@beyzaakkuzu/gradle-scripts-dosyalar%C4%B1-android-projelerinde-yap%C4%B1land%C4%B1rma-ve-%C3%B6zelle%C5%9Ftirme-b%C3%B6l%C3%BCm-1-28bb7cd25070
+- https://medium.com/@beyzaakkuzu/gradle-scripts-dosyalar%C4%B1-android-projelerinde-yap%C4%B1land%C4%B1rma-ve-%C3%B6zelle%C5%9Ftirme-b%C3%B6l%C3%BCm-2-c43be4cb7873
 -----------
 
 Where to find me

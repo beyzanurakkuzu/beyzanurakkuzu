@@ -1,13 +1,22 @@
 # Hi, Welcome to my page! 👋
 
-### I'm Beyzanur Akkuzu, Android Developer and currently living in Ankara 🏡
+As a computer engineer with 1+ years of experience in Android application development, I am constantly trying to improve my skills in Kotlin language and modern Android frameworks. I have built a strong foundation with Kotlin language and started to adopt modern approaches to improve reliability and performance in my applications by effectively using Android Jetpack library. I prefer to use Model-View-ViewModel (MVVM) architecture when developing Android applications. I aim to write maintainable and testable code by distinguishing between data binding and UI logic. I'm closely following Jetpack Compose, a new UI development library that allows me to create faster and more flexible user interfaces. I'm trying to learn test automation tools like Espresso and JUnit to improve the quality of my applications and debugging processes. I'm improving myself by following the latest developments in Android application development from the Official Android Developer Documentation, KeKod channel, my mentoring group and youtube channels.
+The youtube channels I follow:
 
-- 🌱 I’m currently learning everything 
-- ⚡ Fun fact: I love to draw and to see new places
-- 🚀 2023 Goals:
-  - [ ] Learn more about Kotlin
-  - [ ] Write 5 articles on Medium
-  - [ ] Creating 3 android apps using the structures I learned
+- Philipp Lackner 
+- CodingWithMitch
+- Android Developers
+- Coding in Flow
+- Stevdza-San
+- Google Developer Communities Turkey
+
+I am always available to answer your questions and share more information.
+
+Where to find me
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=link)](https://medium.com/@beyzaakkuzu) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/beyzanur-akkuzu)
+
 --------
 
 ### 📕 Latest Blog Posts
@@ -15,10 +24,13 @@
 - [Gradle Scripts Dosyaları: Android Projelerinde Yapılandırma ve Özelleştirme -Bölüm 1](https://medium.com/@beyzaakkuzu/gradle-scripts-dosyalar%C4%B1-android-projelerinde-yap%C4%B1land%C4%B1rma-ve-%C3%B6zelle%C5%9Ftirme-b%C3%B6l%C3%BCm-1-28bb7cd25070)
 - [Gradle Scripts Dosyaları: Android Projelerinde Yapılandırma ve Özelleştirme -Bölüm 2](https://medium.com/@beyzaakkuzu/gradle-scripts-dosyalar%C4%B1-android-projelerinde-yap%C4%B1land%C4%B1rma-ve-%C3%B6zelle%C5%9Ftirme-b%C3%B6l%C3%BCm-2-c43be4cb7873)
 -----------
-
-Where to find me
-
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=link)](https://github.com/beyzanurakkuzu)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=link)](https://twitter.com/beyzanur_akkuzu)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/beyzanur-akkuzu)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=link)](https://medium.com/@beyzaakkuzu)
+### Structures I use in the projects I develop:
+- MVVM
+- Coroutine
+- Dagger Hilt
+- Room
+- Retrofit
+- Live Data
+- Navigation Component
+- ViewBinding - Data Binding
+- Shared Preferences
